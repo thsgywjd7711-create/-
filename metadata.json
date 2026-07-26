@@ -1,0 +1,6 @@
+{
+  "name": "그린빌 어린이집 들꽃향기반 전자 독서기록장",
+  "description": "그린빌 어린이집 들꽃향기반 유아용 독서기록장, 내 독서기록 보기, 교사 대시보드, 이달의 독서왕, 구글 시트 연동 시스템",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
